@@ -10,6 +10,11 @@ Built for Apple Swift Student Challenge 2026.
 
 ## Preview
 
+### Demo
+
+<video src="https://github.com/user-attachments/assets/639867bc-edad-4fa2-851d-ad605a89df6f" controls width="600"></video>
+
+### Screenshots
 ![](screenshots/Simulator%20Screenshot%201.png)
 ![](screenshots/Simulator%20Screenshot%202.png)
 ![](screenshots/Simulator%20Screenshot%203.png)
